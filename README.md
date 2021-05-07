@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bessammehenni
 - 👀 I’m interested to find out why the roadrunner (bip bip!) spends its time running around and around.😂
-- 📫 How to reach me bessam_mehenni@hotmail.com
+- 📫 Can reach me @ bessam_mehenni@hotmail.com
 
 <!---
 bessammehenni/bessammehenni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
