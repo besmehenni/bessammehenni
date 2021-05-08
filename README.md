@@ -1,4 +1,4 @@
-- Hi there 👋 Hi!
+- Hi there! 👋
 - 📫 You can reach me at bessam_mehenni(at)hotmail(dot)com
 
 <!---
